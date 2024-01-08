@@ -17,23 +17,18 @@ The project uses a dataset with various customer attributes such as gender, tenu
   - `Dependents`: Whether the customer has dependents (Yes/No)
   - ... (and other relevant columns)
 
+## Steps Involved
+The notebook includes the following:
+1. Data exploration and preprocessing.
+2. Visualizations for better understanding of the dataset.
+3. Encoding categorical variables and handling missing values.
+4. Implementation of Random Forest for customer churn prediction.
+5. Smote technique for Imbalance data.
+6. Model evaluation using accuracy score.
+
 ## Dependencies
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries: pandas, numpy, seaborn, scikit-learn
-
-## Usage
-1. Clone the repository to your local machine.
-2. Open the Jupyter Notebook `Customer_Churn_Prediction.ipynb` using a Jupyter Notebook environment.
-3. Run the notebook cells to execute the code step by step.
-4. Explore the analysis, model training, and evaluation process.
-
-## Results
-The notebook includes the following:
-- Data exploration and preprocessing.
-- Visualizations for better understanding of the dataset.
-- Encoding categorical variables and handling missing values.
-- Implementation of Random Forest for customer churn prediction.
-- Model evaluation using accuracy score.
-
-Feel free to contribute, provide feedback, or use it for educational purposes. Happy predicting!
+  
+Feel free to contribute, provide feedback, or use it for educational purposes. Happy Learning!
